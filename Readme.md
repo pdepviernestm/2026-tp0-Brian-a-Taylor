@@ -18,4 +18,4 @@ Es mi primer año de ayudantia. Estoy en 3er año de la carrera, trabajo hace 11
 
 Aca va la foto con la flia: 
 
-!![Foto con mi familia](./3b823d9b-e76f-4ce9-81cf-902ed4b9596f.jpg)
+!![Foto con mi familia](https://github.com/pdepviernestm/2026-tp0-Brian-a-Taylor/blob/main/3b823d9b-e76f-4ce9-81cf-902ed4b9596f)
