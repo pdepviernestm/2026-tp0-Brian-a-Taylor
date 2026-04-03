@@ -15,7 +15,3 @@ Es mi primer año de ayudantia. Estoy en 3er año de la carrera, trabajo hace 11
     -me gusta salir con mi familia, tocar la guitarra, la música, la gastronomia (más comer que cocinar, pero se hacen ambas, jaja) 
     y los videojuegos (si son competitivos mejor).
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-####Aca va la foto con la flia:
-
-!./3b823d9b-e76f-4ce9-81cf-902ed4b9596f
